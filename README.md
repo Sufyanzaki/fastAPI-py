@@ -1,6 +1,8 @@
 # fastAPI-py
  FASTAPI jwt authentication weather app
 
+in my case i have installed python3.11, python 2.x - python 3.6 might not support the this code
+
 install all the dependencies from requirments.txt as => python3 -m pip install -r requirements.txt
 
 some other dependencies are => python3.11 -m pip install requests
@@ -18,7 +20,3 @@ main.py containing api routes
 model.py containing prototype of database model schemas
 
 auth_handler containing decoding, encoding, returning jwt token
-
-
-
-
