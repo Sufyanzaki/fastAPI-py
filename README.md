@@ -7,7 +7,7 @@ install all the dependencies from requirments.txt as => python3 -m pip install -
 
 some other dependencies are => python3 -m pip install requests
 
-activate ther server with => python3.11 -m uvicorn main:app --reload
+activate ther server with => python3 -m uvicorn main:app --reload
 
 default server running at host => http://127.0.0.1:8000/
 
